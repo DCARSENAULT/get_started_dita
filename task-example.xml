@@ -7,25 +7,25 @@
      applicable licenses.-->
 <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
  *-->
-<task id="changeoil" xml:lang="en-us">
-  <title>Changing the oil in your car</title>
-  <shortdesc>Once every 6000 kilometers or three months, change the oil in
-your car.</shortdesc>
+<task id="ODBC drivers for Microsoft Access" xml:lang="en-us">
+  <title>ODBC drivers for Microsoft Access</title>
+  <shortdesc>Please follow these steps exactly.  You will need administrator credentials to comoplete this task.</shortdesc>
   <taskbody>
     <context>
-      <p>Changing the oil regularly will help keep the engine in good condition.  Do it every three
-        months.</p>
+      <p>Installing the ODBC drivers as part of the SYSTEM DNS will allow all users of the computer access to these drivers.</p>
     </context>
     <steps>
-      <stepsection>To change the oil:</stepsection>
+      <stepsection>From the Oracle Website download the basic instantclient 12_2 and the ODBC client.  Add to 1 folder, Unzip, add to the root of C with all contents on the root of C 
+with the label instantclient 12_2.  Repeat for the 12_2nt version of the client.
+</stepsection>
       <step>
-        <cmd>Remove the old oil filter.</cmd>
+        <cmd>Right Click on the ODBC.exe file and run.</cmd>
       </step>
       <step>
-        <cmd>Drain the old oil.</cmd>
+        <cmd>Reboot</cmd>
       </step>
       <step>
-        <cmd>Install a new oil filter and gasket.</cmd>
+        <cmd>Please follow the screenshots for this install.</cmd>
       </step>
       <step>
         <cmd>Add new oil to the engine.</cmd>
