@@ -27,6 +27,9 @@ with the label instantclient 12_2.  Repeat for the 12_2nt version of the client.
       <step>
         <cmd>Please follow the screenshots for this install.</cmd>
       </step>
+      <fig><title>Sample Image</title>
+<image href="images/sample.png" placement="break"><alt>Sample image</alt></image>
+</fig>
       <step>
         <cmd>Add new oil to the engine.</cmd>
       </step>
